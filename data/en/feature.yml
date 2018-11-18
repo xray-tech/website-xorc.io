@@ -1,0 +1,16 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-copy-outline
+    title : Completely Open Source
+    description : >
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : Based on 3 years of experience and development
+    description : >
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon  : tf-ion-ios-book-outline
+    title : First commercial use of the Orc Language
+    description : >
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
