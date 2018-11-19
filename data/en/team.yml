@@ -1,7 +1,7 @@
 enable  : true
 topTitle: original commits by
 title   : The XRAY team
-subtitle: The team has worked together on a number of projects and now, although neither together in the same company or country, continue working to develop community and code quality of the xray platform
+subtitle: The team has worked together on a number of projects and now, although neither together in the same company or country, continue working to develop the xray platform and build the community around it
 
 member  :
   - image         : images/team/jans.jpeg
