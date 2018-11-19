@@ -99,7 +99,7 @@ DefaultContentLanguage = "en"
     [Languages.en]
     weight = 1
     languageCode = "en-us"
-    title = "Xorc.io - home of the Xray ORchestration Platform"
+    title = "Xorc.io - home of the Xray Orchestration Platform"
     dateFormat = "January 2, 2006"
 
     home = "Home"
