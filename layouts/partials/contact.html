@@ -1,0 +1,32 @@
+{{ if .Site.Params.contact.enable }}
+{{ "<!-- Start Contact Us -->" | safeHTML }}
+<section class="contact-us section bg-gray" id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="title text-center">
+                    {{ with .Site.Params.contact.topTitle }}<h4>{{.}}</h4>{{ end }}
+                    {{ with .Site.Params.contact.title }}
+                    <h2>{{.}}</h2>
+                    <span class="border"></span>
+                    {{ end }}
+                    {{ with .Site.Params.contact.subtitle }}<p>{{.}}</p>{{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="container">
+      <div class="row">
+            <div class="col">
+                <div class="address-block contact-meta-block">
+                    <i class="fab fa-github"></i>
+                    <h4><a href="https://github.com/xray-tech" target="_blank">View or Download our code on GitHub</a></h4>
+                    <div class="title text-center">
+                    {{ with .Site.Params.contact.address }}<p>{{ . | safeHTML }}</p>{{ end }}
+                    </div>
+                </div>
+            </div>
+
+
+
+</section>
+{{ end }}

@@ -1,10 +1,11 @@
 enable  : true
 topTitle: original commits by
 title   : The XRAY team
-subtitle: The team has worked together on a number of projects and now, although neither together in the same company or country, continue working to develop the xray platform and build the community around it
+subtitle: The team has worked together on a number of projects and now, although neither together in the same company or country, continue working to develop community and code quality of the xray platform
 
 member  :
-  - image         : images/team/jans.jpeg
+  - image         : images/team/jans.jpg
+
     name          : Jan Sulmont
     designation   : CTO
     description   : >
@@ -25,7 +26,6 @@ member  :
       Software Engineer with 10 years experience, focusing on mobile since 2010. Worked on many different user facing projects (HERE Maps) before focusing on SDKs development (Fyber, HERE Maps) which comes with challenges such as stability, API clarity and devices with limited resources (phones, tablets, connected watches, IoT).
     twitterURL    : https://twitter.com/TexTwil
     linkedinURL   : https://www.linkedin.com/in/janchaloupecky/
-
 
   - image         : images/team/julius.jpeg
     name          : Julius de Bruijn
