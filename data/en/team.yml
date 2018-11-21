@@ -5,7 +5,7 @@ subtitle: The team has worked together on a number of projects and now, although
 
 member  :
   - image         : images/team/jans.jpeg
-    name          : Jan Sulmonst
+    name          : Jan Sulmont
     designation   : CTO
     description   : >
       Statistician and computer scientist with 20+ years of experience and strong history delivering highly-scalable products in FinTech (algorithmic trading) and AdTech (RTB).  Passionate about distributed computing, consensus, blockchain,  Lisp,  real-time and machine learning. C/C++ developer (backend).
