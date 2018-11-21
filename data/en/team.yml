@@ -20,7 +20,7 @@ member  :
 
   - image         : images/team/janc.jpg
     name          : Jan Chaloupecky
-    designation   : Head of Mobile Mobile
+    designation   : Head of Mobile Development
     description   : >
       Software Engineer with 10 years experience, focusing on mobile since 2010. Worked on many different user facing projects (HERE Maps) before focusing on SDKs development (Fyber, HERE Maps) which comes with challenges such as stability, API clarity and devices with limited resources (phones, tablets, connected watches, IoT).
     twitterURL    : https://twitter.com/TexTwil
@@ -33,3 +33,9 @@ member  :
     description   : >
       Software Engineer with 10 years of experience. A language nerd, interest currently in Rust and all possible Lisps; focusing on high scalability, distributed computing and working with body sensors and data mining to help with diabetes management.
     linkedinURL   : https://www.linkedin.com/in/julius-de-bruijn-61b787171/
+
+  - image         : images/team/andrew.jpg
+    name          : Andrew Rudenko
+    designation   : Software Engineer
+    description   : >
+    linkedinURL   : https://www.linkedin.com/in/prepor/
