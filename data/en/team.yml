@@ -24,15 +24,14 @@ member  :
     gplusURL      : https://plus.google.com/
     dribbbleURL   : https://dribbble.com/
 
-  - image         : https://pm1.narvii.com/6333/01513cb6c829582867f429f5e9acb6bb54e67d2b_hq.jpg
+  - image         : images/team/janc.jpg
     name          : Jan Chaloupecky
-    designation   : Head Mobile Platfom
+    designation   : Head of Mobile Mobile
     description   : >
-      Software Engineer with 10 years experience, focusing on mobile since 2010. Worked on many different user facing projects (HERE) before focusing on SDKs development (Fyber, HERE) which comes with challenges such as stability, API clarity and devices with limited resources (phones, tablets, connected watches, IoT).
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Software Engineer with 10 years experience, focusing on mobile since 2010. Worked on many different user facing projects (HERE Maps) before focusing on SDKs development (Fyber, HERE Maps) which comes with challenges such as stability, API clarity and devices with limited resources (phones, tablets, connected watches, IoT).
+    twitterURL    : https://twitter.com/TexTwil
+    linkedinURL   : https://www.linkedin.com/in/janchaloupecky/
+
 
   - image         : https://hanslodge.com/images2018/mystique-png/mystique-png-13.jpg
     name          : Julius de Bruijn
