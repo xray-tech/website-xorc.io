@@ -4,25 +4,19 @@ title   : The XRAY team
 subtitle: The team has worked together on a number of projects and now, although neither together in the same company or country, continue working to develop community and code quality of the xray platform
 
 member  :
-  - image         : https://jchavezsays.files.wordpress.com/2013/12/xmen-proffesor-x.jpg
+  - image         : images/team/jans.jpeg
     name          : Jan Sulmonst
     designation   : CTO
     description   : >
       Statistician and computer scientist with 20+ years of experience and strong history delivering highly-scalable products in FinTech (algorithmic trading) and AdTech (RTB).  Passionate about distributed computing, consensus, blockchain,  Lisp,  real-time and machine learning. C/C++ developer (backend).
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+    linkedinURL   : https://www.linkedin.com/in/sulmont
 
   - image         : https://pluspng.com/img-png/x-men-png-crkynnn-png-963.png
     name          : Thomas Sanchez
     designation   : Head of Core Development
     description   : >
       Computer scientist with experience in real-time and distributed processing. Built an SSP, a DSP, and Market Data feed processors. Participated on dotCloud (Docker) during YCombinator stage.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+    linkedinURL   : https://www.linkedin.com/in/thsanchez/
 
   - image         : images/team/janc.jpg
     name          : Jan Chaloupecky
@@ -33,12 +27,9 @@ member  :
     linkedinURL   : https://www.linkedin.com/in/janchaloupecky/
 
 
-  - image         : https://hanslodge.com/images2018/mystique-png/mystique-png-13.jpg
+  - image         : images/team/julius.jpeg
     name          : Julius de Bruijn
     designation   : Head of Services
     description   : >
       Software Engineer with 10 years of experience. A language nerd, interest currently in Rust and all possible Lisps; focusing on high scalability, distributed computing and working with body sensors and data mining to help with diabetes management.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+    linkedinURL   : https://www.linkedin.com/in/julius-de-bruijn-61b787171/
