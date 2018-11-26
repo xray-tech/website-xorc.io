@@ -1,28 +1,28 @@
 enable  : true
-topTitle: HOW WE WORKS
-title   : ENGLISH Our Work Process
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: HOW IT WORKS
+title   : Completing the Package
+subtitle: Connectors can be added to make calls to external services. The set of connectors for your use case makes up a unique environment which can be easily packaged and deployed to any cloud or self-hosted server solution for personal and commercial projects.
 item    :
-  - number  : 1
-    icon    : tf-ion-ios-briefcase-outline
-    title   : Project Analysis
+  - number  :
+    icon    : fas fa-project-diagram
+    title   : Connectors
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Write connectors in your preferred language such as Rust, Clojure or Scala to execute any task. Open Surce, production-level connectors for mobile messaging services are provided as example.
 
-  - number  : 2
-    icon    : tf-ion-ios-alarm-outline
-    title   : Time Management
+  - number  :
+    icon    : fas fa-mobile
+    title   : Devices
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      We provide an open source mobile SDK to securely communicate with your apps. Perform background sync as well as set up local triggers and filters for events and incoming messages.
 
-  - number  : 3
-    icon    : tf-ion-ios-email-outline
-    title   : Mail Support
+  - number  :
+    icon    : fab fa-connectdevelop
+    title   : Environments
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Package your set of connectors and SDKs into a discrete environment. Wrap it all up in a neat API and you've got yourself a heavy-duty orchestration platform without spending years in limbo.
 
-  - number  : 4
-    icon    : tf-ion-ios-locked-outline
-    title   : Secure System
+  - number  :
+    icon    : fas fa-server
+    title   : Deployment
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Get your project up and running on practically any cloud provider or even self-host. Using Kubernetes, deployment is a config file away with reference benchmarking and graphing tools provided. 

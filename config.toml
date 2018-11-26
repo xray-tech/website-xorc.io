@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
 # Site Params
 [params]
-    logo = "images/logo.jpg"
+    logo = "images/xorcio.png"
 
     # Gestion des langues : FR / EN / NL / DE
     # [[Params.listeLangues]]
@@ -103,7 +103,7 @@ DefaultContentLanguage = "en"
     dateFormat = "January 2, 2006"
 
     home = "Home"
-    logo = "images/logo.png"
+    logo = "images/xorcio.png"
     menufixed = false
 
     footerDescription = "Copyright 2018 xorc.io. All rights reserved"
@@ -185,8 +185,8 @@ DefaultContentLanguage = "en"
         url     = "team"
         weight  = 5
     [[menu.nav]]
-        name    = "contact"
-        url     = "contact"
+        name    = "contribute"
+        url     = "contribute"
         weight  = 6
 
     # Footer Service Menu

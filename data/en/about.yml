@@ -1,13 +1,13 @@
 enable  : true
 item    :
   - positionRight : false
-    image : https://www.visitberlin.de/system/files/styles/visitberlin_bleed_header_visitberlin_mobile_1x/private/image/iStock_000074120341_Double_DL_PPT_0.jpg?h=a66ba266&itok=2YXS5_33
-    title : Use for Realtime Interaction Management
+    image : /images/media-2082641_1280.jpg
+    title : Use for Realtime Journey Orchestration
     description : >
       Orchestrate your entire customer journey by responding to signals from users via mobile apps, your website, POS, logistics and tracking systems by routing all events through the highly efficient Kafka message bus. Use our Open Source libraries to commicate reliably with your users on Android and iPhone, even at massive scale. The Orc language allows you to create campaigns and workflows with arbitrarily complex lifecycles and external dependencies in intuitive and concise code.
 
   - positionRight : true
-    image : https://www.bz-berlin.de/data/uploads/2018/03/99879849_1520432982-768x432.jpg
+    image : /images/network-782707_1280.png
     title : Use for the Internet of Things
     description : >
-      Create rules-based systems based on sensors and data from any connected device.
+      Create rules-based systems based on sensors and data from any connected device using our Open Source core as stream processing engine. With the addition of a simple API you can power projects as small as your own private smart home or as big as an interconnected city of the future. The connector system allows for you to easily tap in to external AI and deep learning APIs and deliver decisions and results directly to your ORC programs, no matter where they run.
