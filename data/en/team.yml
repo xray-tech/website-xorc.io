@@ -1,41 +1,46 @@
 enable  : true
 topTitle: original commits by
-title   : The XRAY team
+title   : the XRAY team
 subtitle: The team has worked together on a number of projects and now, although neither together in the same company or country, continue working to develop community and code quality of the xray platform
 
 member  :
-  - image         : images/team/jans.jpeg
+  - image         : images/team/jans.jpg
     name          : Jan Sulmont
-    designation   : CTO
+    designation   : Architecture, Backend, Language
     description   : >
       Statistician and computer scientist with 20+ years of experience and strong history delivering highly-scalable products in FinTech (algorithmic trading) and AdTech (RTB).  Passionate about distributed computing, consensus, blockchain,  Lisp,  real-time and machine learning. C/C++ developer (backend).
     linkedinURL   : https://www.linkedin.com/in/sulmont
 
   - image         : images/team/thomas.jpeg
     name          : Thomas Sanchez
-    designation   : Head of Core Development
+    designation   : Backend
     description   : >
       Computer scientist with experience in real-time and distributed processing. Built an SSP, a DSP, and Market Data feed processors. Participated on dotCloud (Docker) during YCombinator stage.
     linkedinURL   : https://www.linkedin.com/in/thsanchez/
 
   - image         : images/team/janc.jpg
     name          : Jan Chaloupecky
-    designation   : Head of Mobile Development
+    designation   : Mobile
     description   : >
       Software Engineer with 10 years experience, focusing on mobile since 2010. Worked on many different user facing projects (HERE Maps) before focusing on SDKs development (Fyber, HERE Maps) which comes with challenges such as stability, API clarity and devices with limited resources (phones, tablets, connected watches, IoT).
     twitterURL    : https://twitter.com/TexTwil
     linkedinURL   : https://www.linkedin.com/in/janchaloupecky/
 
-
   - image         : images/team/julius.jpeg
     name          : Julius de Bruijn
-    designation   : Head of Services
+    designation   : Services, Connectors
     description   : >
       Software Engineer with 10 years of experience. A language nerd, interest currently in Rust and all possible Lisps; focusing on high scalability, distributed computing and working with body sensors and data mining to help with diabetes management.
     linkedinURL   : https://www.linkedin.com/in/julius-de-bruijn-61b787171/
 
   - image         : images/team/andrew.jpg
     name          : Andrew Rudenko
-    designation   : Software Engineer
+    designation   : Backend, Language
     description   : >
     linkedinURL   : https://www.linkedin.com/in/prepor/
+
+  - image         : images/team/adrian.jpeg
+    name          : Adrian Doonan
+    designation   : Product, Community Management
+    description   : >
+    linkedinURL   : https://www.linkedin.com/in/adrian-doonan-ab431152/    

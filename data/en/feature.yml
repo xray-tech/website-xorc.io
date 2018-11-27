@@ -3,14 +3,14 @@ item  :
   - icon  : tf-ion-ios-copy-outline
     title : Completely Open Source
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      The entire real-time core, compiler and tooling environment is covered under the Apache license and can be freely integrated into both commercial and other Open Source projects. We welcome contributions and fully expect to be able to offer an increasing number of additional libraries and tools as the project matures.
 
   - icon  : tf-ion-ios-alarm-outline
     title : Based on 3 years of experience and development
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      The Open Source Xray Platform builds on a wealth of experience and insight gathered while developing and maintaining the first incarnation of the software as the basis for a successful commercial marketing suite. The completely rewritten core expands on this foundation to provide a platform generic enough to tackle this use case and much, much more.
 
   - icon  : tf-ion-ios-book-outline
     title : First commercial use of the Orc Language
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      The Orc language reimagines the problem of orchestrating complex, concurrent workflows as a process calculus. This mathematical basis allows you to elegantly and concisely express the complete lifecycle of business processes while our compiler sees to it that the code running on production is stable and bug free.
