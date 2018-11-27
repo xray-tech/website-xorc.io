@@ -39,3 +39,9 @@ member  :
     designation   : Software Engineer
     description   : >
     linkedinURL   : https://www.linkedin.com/in/prepor/
+
+  - image         : images/team/adrian.jpeg
+    name          : Adrian Doonan
+    designation   : Product, Community Management
+    description   : >
+    linkedinURL   : https://www.linkedin.com/in/adrian-doonan-ab431152/    
