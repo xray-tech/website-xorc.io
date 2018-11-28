@@ -120,7 +120,7 @@ DefaultContentLanguage = "en"
         button  = true
         btnText = "Get the code"
         btnURL  = "https://github.com/xray-tech/"
-        videoThumb = "/images/earth-lights-world-41949.jpg"
+        videoThumb = "/images/world-mesh.png"
         # videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
     # About 2 Section
