@@ -155,6 +155,24 @@ DefaultContentLanguage = "en"
       mapLongitude= "13.404954"
         mapMarker   = "images/marker.png"
 
+      # Contact Section
+      [Languages.en.params.know_more]
+          enable  = true
+      #    topTitle= "Digging Deeper"
+          title   = "Digging Deeper"
+          subtitle= "subtitle section"
+          know_more = "If you need some reading material or your boss only responds to presentations rather than the words coming out of your mouth, try these on for size, they are quite high level but should be enough to pique interest and provide a discussion whether xray will be right for your project, company strategy and product vision."
+          know_even_more = "If you need to get deeper into the topic of Next Best Action Marketing and what the benefits are compared to the traditional, segment-based approach we can highly recommend Alan Trefler's amazing and prescient book on the impending customerpocolypse [link to amazon](link) or the case studies presented [here for banking](link study banking), [here for retail](link study retail) or [here for smart cities & logistics](link to same)."
+          # phone   = "(03) 9283 2617"
+          # fax     = "+61 3827 3590"
+        #   facebook= "https://www.facebook.com/"
+        #  twitter = "https://twitter.com/"
+        #  linkedin= "https://www.linkedin.com/"
+        #  dribbble= "https://dribbble.com/"
+        #  instagram= "https://www.instagram.com/"
+
+
+
     # Call to Action Section on About Page
     [Languages.en.params.cta]
         enable  = true

@@ -1,0 +1,44 @@
+{{ if .Site.Params.know_more.enable }}
+{{ "<!-- Start Contact Us -->" | safeHTML }}
+<section class="contact-us section bg-gray" id="know_more">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="title text-center">
+                    {{ with .Site.Params.know_more.topTitle }}<h4>{{.}}</h4>{{ end }}
+                    {{ with .Site.Params.know_more.title }}
+                    <h2>{{.}}</h2>
+                    <span class="border"></span>
+                    {{ end }}
+  <!--                  {{ with .Site.Params.know_more.know_more }}<p>{{.}}</p>{{ end }}
+                    &nbsp;
+                    {{ with .Site.Params.know_more.know_even_more }}<p>{{.}}</p>{{ end }} -->
+                </div>
+            </div>
+        </div>
+        <div class="container">
+      <div class="row">
+            <div class="col">
+                <div class="address-block contact-meta-block">
+                    <i class="fab fa-github"></i>
+                    <h4>Would you like to know more?</h4>
+                    <div class="title text-center">
+                    {{ with .Site.Params.know_more.know_more }}<p>{{ . | safeHTML }}</p>{{ end }}
+                    </div>
+                </div>
+            </div>
+      <div class="row">
+            <div class="col">
+                <div class="address-block contact-meta-block">
+                    <i class="fab fa-github"></i>
+                    <h4>Would you like to know even more?</h4>
+                    <div class="title text-center">
+                    {{ with .Site.Params.know_more.know_even_more }}<p>{{ . | safeHTML }}</p>{{ end }}
+                    </div>
+                </div>
+            </div>
+
+
+
+</section>
+{{ end }}
