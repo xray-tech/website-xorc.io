@@ -129,13 +129,6 @@ DefaultContentLanguage = "en"
         title   = "Create an environment as unique as your use case around our Open Source Realtime Core "
         description = "By adding a layer of connectors, standard programmes and maybe even a simple API wrapped around our Open Source rule engine, you can rapidly prototype your business ideas without having to devote years of developer time to ensure your workflows are run from start to end reliably, repeatedly and at scale. We even give you a headstart in mobile with Open Source Mobile SDK and connectors for Android and iOS messaging as well as http to make it easy to call existing services with program state changes and outcomes."
 
-    # Blog Section On Homepage
-    [Languages.en.params.blog]
-        enable  = false
-        topTitle= "OUR UNTOLD STORY"
-        title   = "ENGLISH Blog."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-
 
     # Contact Section
     [Languages.en.params.contact]
@@ -154,6 +147,13 @@ DefaultContentLanguage = "en"
       mapLatitude = "52.520008"
       mapLongitude= "13.404954"
         mapMarker   = "images/marker.png"
+
+
+    [Languages.en.params.know_more]
+        enable  = true
+        topTitle= "Really deep"
+        title   = "Digging Deeper"
+   
 
     # Call to Action Section on About Page
     [Languages.en.params.cta]
