@@ -2,10 +2,12 @@
 title: Would you like to know more?
 # font awesome icon id: https://fontawesome.com/icons/
 icon: fa-book-open
-link1_title: Download
-link1_href: pres/xray-nba.pdf
-link2_title: See More 
-link2_href: https://www.amazon.com/Build-Change-Revolutionizing-Engagement-Continuous/dp/1118930266/
+link1_title: Xray USPs
+link1_href: pres/xray-usp.pdf
+link2_title: Xray for NBA
+link2_href: pres/xray-nba.pdf
+priority: 1
+date: 2017-07-07T17:04:41+06:00
 ---
 
-If you need to get deeper into the topic of Next Best Action Marketing and what the benefits are compared to the traditional, segment-based approach we can highly recommend Alan Trefler's amazing and prescient book on the impending customerpocolypse or the case studies listed below.
+If you need some reading material or your boss only responds to presentations rather than the words coming out of your mouth, try these on for size; they are quite high level but should be enough to pique interest and provoke a discussion whether xray will be right for your company strategy and product vision. We have one showing our USPs and another focused on the NBA Marketing use case.

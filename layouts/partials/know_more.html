@@ -20,10 +20,10 @@
                         <i class="fas {{ .Params.icon }}"></i>
                         <h4>{{ .Title }}</h4>
                         <p>{{ .Summary }}</p>
-                        {{ if .Params.link1_title }}<a class="btn btn-main" href="{{ .Params.link1_href }}">{{ .Params.link1_title }}</a>{{ end }}
-                        {{ if .Params.link2_title }}<a class="btn btn-main" href="{{ .Params.link2_href }}">{{ .Params.link2_title }}</a>{{ end }}
+                        {{ if .Params.link1_title }}<a class="btn btn-main" href="{{ .Params.link1_href }}" target="_blank">{{ .Params.link1_title }}</a>{{ end }}
+                        {{ if .Params.link2_title }}<a class="btn btn-main" href="{{ .Params.link2_href }}" target="_blank">{{ .Params.link2_title }}</a>{{ end }}
                     </div>
-                    
+
                 </div>
                 {{ "<!-- /single blog post -->" | safeHTML }}
                 {{ end }}
