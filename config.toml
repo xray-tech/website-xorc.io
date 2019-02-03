@@ -151,7 +151,7 @@ DefaultContentLanguage = "en"
 
     [Languages.en.params.know_more]
         enable  = true
-        topTitle= "Really deep"
+        # topTitle= "Really deep"
         title   = "Digging Deeper"
    
 
