@@ -1,44 +1,34 @@
 {{ if .Site.Params.know_more.enable }}
-{{ "<!-- Start Contact Us -->" | safeHTML }}
+{{ "<!-- Blog Section Start -->" | safeHTML }}
 <section class="contact-us section bg-gray" id="know_more">
     <div class="container">
         <div class="row">
             <div class="col">
                 <div class="title text-center">
-                    {{ with .Site.Params.know_more.topTitle }}<h4>{{.}}</h4>{{ end }}
-                    {{ with .Site.Params.know_more.title }}
-                    <h2>{{.}}</h2>
-                    <span class="border"></span>
-                    {{ end }}
-  <!--                  {{ with .Site.Params.know_more.know_more }}<p>{{.}}</p>{{ end }}
-                    &nbsp;
-                    {{ with .Site.Params.know_more.know_even_more }}<p>{{.}}</p>{{ end }} -->
+                    {{ with .Site.Params.know_more.topTitle }}<h4>{{ . }}</h4>{{ end }}
+                    {{ with .Site.Params.know_more.title }}<h2>{{ . }}</h2><span class="border"></span>{{ end }}
+                    {{ with .Site.Params.know_more.subtitle }}<p>{{ . }}</p>{{ end }}
                 </div>
             </div>
         </div>
-        <div class="container">
-      <div class="row">
-            <div class="col">
-                <div class="address-block contact-meta-block">
-                    <i class="fas fa-book-open"></i>
-                    <h4>Would you like to know more?</h4>
-                    <div class="title text-center">
-                    {{ with .Site.Params.know_more.know_more }}<p>{{ . | safeHTML }}</p>{{ end }}
+
+        <div class="row">
+                {{ range first 3 .Data.Pages }}
+                {{ "<!-- single blog post -->" | safeHTML }}
+                <div class="col-12 col-md-6">
+                    <div class="address-block know-more-meta-block">
+                        <i class="fas {{ .Params.icon }}"></i>
+                        <h4>{{ .Title }}</h4>
+                        <p>{{ .Summary }}</p>
+                        {{ if .Params.link1_title }}<a class="btn btn-main" href="{{ .Params.link1_href }}">{{ .Params.link1_title }}</a>{{ end }}
+                        {{ if .Params.link2_title }}<a class="btn btn-main" href="{{ .Params.link2_href }}">{{ .Params.link2_title }}</a>{{ end }}
                     </div>
+                    
                 </div>
-            </div>
-      <div class="row">
-            <div class="col">
-                <div class="address-block contact-meta-block">
-                    <i class="fas fa-book-reader"></i>
-                    <h4>Would you like to know even more?</h4>
-                    <div class="title text-center">
-                    {{ with .Site.Params.know_more.know_even_more }}<p>{{ . | safeHTML }}</p>{{ end }}
-                    </div>
-                </div>
-            </div>
-
-
-
+                {{ "<!-- /single blog post -->" | safeHTML }}
+                {{ end }}
+        </div>
+    </div>
 </section>
+{{ "<!-- Blog Section End -->" | safeHTML }}
 {{ end }}
