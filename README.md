@@ -36,6 +36,7 @@ hugo
 ```
 cd public
 git add .
+git commit -m "Updated domain"
 git push origin master
 ```
 
