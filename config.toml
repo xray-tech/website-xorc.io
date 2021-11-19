@@ -1,6 +1,6 @@
-baseURL = "https://xorc.io/"
+baseURL = "https://xorc.tech/"
 languageCode = "en-us"
-title = "xorc.io | the creators of the xray platform for real-time distributed orchestration "
+title = "xorc.tech | the creators of the xray platform for real-time distributed orchestration "
 theme = "navigator-hugo"
 
 # Build robots.txt file
@@ -99,14 +99,14 @@ DefaultContentLanguage = "en"
     [Languages.en]
     weight = 1
     languageCode = "en-us"
-    title = "Xorc.io - home of the Xray Orchestration Platform"
+    title = "xorc.tech - home of the Xray Orchestration Platform"
     dateFormat = "January 2, 2006"
 
     home = "Home"
     logo = "images/xorcio.png"
     menufixed = false
 
-    footerDescription = "Copyright 2018 xorc.io. All rights reserved"
+    footerDescription = "Copyright 2018 xorc.tech. All rights reserved"
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
