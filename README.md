@@ -1,6 +1,6 @@
-## xorc.io
+## xorc.tech
 
-This repo contains the [Hugo](https://gohugo.io/) sources of [http://xorc.io](http://xorc.io)
+This repo contains the [Hugo](https://gohugo.io/) sources of [http://xorc.tech](http://xorc.tech)
 
 
 ### Installing
@@ -36,6 +36,7 @@ hugo
 ```
 cd public
 git add .
+git commit -m "Updated domain"
 git push origin master
 ```
 
